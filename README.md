@@ -1,2 +1,0 @@
-# HackWhatsApp
-HackWhatsApp
