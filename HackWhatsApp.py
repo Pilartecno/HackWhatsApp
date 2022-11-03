@@ -1,6 +1,6 @@
 # HackWhatsApp
 HackWhatsApp
-apt udate
+apt update
 apt upgrade
 pkg install git
 pkg install python
